@@ -5,6 +5,7 @@
 ### Web Development
 
 [greetDog](https://github.com/tchua004/greetDog)
+
 <img src="images/greetdog_home.png"/>
 <img src="images/greetdog_about.png"/>
 
