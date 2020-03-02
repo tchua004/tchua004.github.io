@@ -15,7 +15,7 @@
 
 ---
 [Gas Demand Prediction based on weather](https://github.com/tchua004/weather_prediction)
-<img src="images/Screenshot 2020-02-29 at 1.40.15 PM.png"/>
+<img src="images/gas_demand.png"/>
 
 ---
 [Tourism prediction based on survey](https://github.com/tchua004/japan_tourist)
