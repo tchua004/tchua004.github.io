@@ -20,11 +20,11 @@
 ---
 [Tourism prediction based on survey](https://github.com/tchua004/japan_tourist)
 <img src="images/sem.png"/>
-<img src="images/statistical_tests.png"/>
+
 
 ---
 [Soil respiration and its factors](https://github.com/tchua004/soil_respiration_r)
-<img src="images/soil_res_plot.pdf"/>
+<img src="images/soil_res_plot.png"/>
 
 ---
 [Python class tutorial - supervised regression](https://github.com/tchua004/python_tutorial/tree/master/.gitignore)
@@ -33,15 +33,7 @@
 ---
 [Tsunami and its influence on damage states](https://github.com/tchua004/tsunami_predict_r_py)
 
-### Category Name 2
-
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
-
 
 
 
