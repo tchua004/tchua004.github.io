@@ -33,7 +33,7 @@
 <img src="images/soil_res_plot.png"/>
 
 ---
-[Python class tutorial - supervised regression](https://github.com/tchua004/python_tutorial/tree/master/.gitignore)
+[Python class tutorial - supervised regression](https://github.com/tchua004/python_tutorial)
 
 <img src="images/gradient_descent_plot.png"/>
 
