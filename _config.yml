@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Terence Chua # your name (or website title) here
+logo: "/images/Terence_Linkedin_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  An aspiring computational scientist with some experience in studying statistics, programming, disaster risk, geology, environmental science, gas price indices, and market trend. Fluent in English and Mandarin; Skilled at communicating and presenting to audiences. Involved extensively into research work. Avid traveller and big fan of cultural exchanges. 
   <br><br>
-  Second description 
+  Currently a final year student at NTU Asian School of the Environment. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/terence-chua-7b7ba5157/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
