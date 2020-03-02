@@ -4,8 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[How Exposed is Singapore](tchua004/ureca_map_r)
+<img src="images/ureca.png"/>
+<img src="images/singapore_ureca.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
