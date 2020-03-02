@@ -4,17 +4,18 @@
 
 ### Category Name 1 
 
-[How Exposed is Singapore](tchua004/ureca_map_r)
-<img src="images/ureca.png"/>
+[How Exposed is Singapore?](https://github.com/tchua004/ureca_map_r)
 <img src="images/singapore_ureca.png"/>
+<img src="images/ureca.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Gas Demand Prediction based on weather](https://github.com/tchua004/weather_prediction)
+<img src="images/Screenshot 2020-02-29 at 1.40.15 PM.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tourism prediction based on survey](https://github.com/tchua004/japan_tourist)
+<img src="images/sem.png"/>
+<img src="images/statistical_tests.png"/>
 
 ---
 
