@@ -34,9 +34,5 @@
 [Tsunami and its influence on damage states](https://github.com/tchua004/tsunami_predict_r_py)
 
 ---
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
