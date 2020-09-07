@@ -11,6 +11,8 @@
   <figcaption>Your label goes here</figcaption>    
 </figure>
 <br>
+<br>
+
 ---
 [Python class tutorial - supervised regression (Sci-kit Learn)](https://github.com/tchua004/python_tutorial)
 
