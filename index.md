@@ -4,23 +4,25 @@
 
 ### Analytics and Statistics 
 
-[Visitor's Missing Data Imputation using variational and denoising autoencoders (Pytorch & Tensorflow)](https://github.com/tchua004/ureca_map_r)
+[Visitor's Missing Data Imputation using variational and denoising autoencoders (Pytorch & Tensorflow)]
 
-<img src="images/ranjit_DAE.png"/>
-
+<figure>
+  <img src="images/ranjit_DAE.png"/>
+  <figcaption>Your label goes here</figcaption>    
+</figure>
 ---
 [Python class tutorial - supervised regression (Sci-kit Learn)](https://github.com/tchua004/python_tutorial)
 
 <img src="images/gradient_descent_plot.png"/>
 
 ---
-[Kaggle 'Titanic' dataset - supervised regression (Sci-kit Learn)](https://github.com/tchua004/python_tutorial)
+[Kaggle 'Titanic' dataset - supervised regression (Sci-kit Learn)]
 
 <img src="images/titanic_1.png"/>
 <img src="images/titanic_2.png"/>
 
 ---
-[GeoAnalytics - Tracing visitor movement behaviors(R)](https://github.com/tchua004/ureca_map_r)
+[GeoAnalytics - Tracing visitor movement behaviors(R)]
 
 <img src="images/Geoanalytics_R.png"/>
 
@@ -52,7 +54,7 @@
 
 
 ---
-[greetDog](https://github.com/tchua004/greetDog)
+[greetDog - simple website made for leisure](https://github.com/tchua004/greetDog)
 
 <img src="images/greetdog_home.png"/>
 <img src="images/greetdog_about.png"/>
