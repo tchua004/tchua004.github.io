@@ -19,7 +19,7 @@
 
 <figure>
   <img src="images/gradient_descent_plot.png"/>
-  <figcaption>Image shows the loss plot and </figcaption>    
+  <figcaption>Image shows the path of gradient descent and 3D loss plot  </figcaption>    
 </figure>
 <br>
 <br>
