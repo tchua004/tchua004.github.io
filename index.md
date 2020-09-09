@@ -2,13 +2,23 @@
 
 ---
 
-### Analytics and Statistics 
+### Analytics and Deep Learning 
 
 [Visitor's Missing Data Imputation using variational and denoising autoencoders (Pytorch & Tensorflow)]
 
 <figure>
   <img src="images/ranjit_DAE.png"/>
   <figcaption>Image shows the DAE workflow and how missing imputation is performed</figcaption>    
+</figure>
+<br>
+<br>
+
+---
+[Price Index forecast with LSTM (Keras)](https://github.com/tchua004/Price-Index)
+
+<figure>
+  <img src="price_index_picture.png"/>
+  <figcaption>Image shows several gas price index movements across time</figcaption>    
 </figure>
 <br>
 <br>
