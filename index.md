@@ -4,7 +4,7 @@
 
 ### Analytics and Deep Learning 
 
-[Visitor's Missing Data Imputation using variational and denoising autoencoders (Pytorch & Tensorflow)]
+[Visitor's Missing Data Imputation using variational and denoising autoencoders (Pytorch & Tensorflow)](https://github.com/tchua004/Caminos/tree/master)
 
 <figure>
   <img src="images/ranjit_DAE.png"/>
