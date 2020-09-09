@@ -50,7 +50,7 @@
 <br>
 
 ---
-[GeoAnalytics - Tracing visitor movement behaviors(R)]
+[GeoAnalytics - Tracing visitor movement behaviors(R)](https://github.com/tchua004/Geo-Analytics)
 
 <figure>
   <img src="images/Geoanalytics_R.png"/>
