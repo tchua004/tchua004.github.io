@@ -56,6 +56,12 @@
   <img src="images/Geoanalytics_R.png"/>
   <figcaption>Image shows the inferred routes taken by single visitor around Singapore </figcaption>    
 </figure>
+<figure>
+  <img src="images/hierarchal.png"/>
+  <figcaption>Image shows the hierarchical clustering of visitors' routes by the POIs they visited </figcaption>    
+</figure>
+<br>
+<br>
 <br>
 <br>
 
